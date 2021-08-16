@@ -16,12 +16,12 @@ These are the programs that I use:
 first, you should have the applications I used.
 
 to install these in arch-based distributions, type the following in your terminal
--    `yay -S chromium rofi vim picom sxhkd termite fish polybar starfish`
+-    yay -S chromium rofi vim picom sxhkd termite fish polybar starfish
 
 to install these in debian-based distribution, type the following in your terminal
--    `sudo apt install chromium rofi vim compton sxhkd termite fish polybar starfish`
+-    sudo apt install chromium rofi vim compton sxhkd termite fish polybar starfish
 
 to copy my config files, type
--     `
+-     
 
 
