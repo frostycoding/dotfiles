@@ -1,10 +1,27 @@
 ### My bspwm configuration
-This is my minimalistic bspwm config.
 
-```chromium``` as the web browser
-```rofi``` as the application launcher
-```termite``` as the terminal emulator
-```fish``` as the shell
-```polybar``` as the panel bar
+These are the programs that I use:
 
-but, you don't have to use these programs
+- ```chromium``` as the web browser
+- ```rofi``` as the application launcher
+- ```vim``` as the text editor
+- ```picom``` as the compositer
+- ```sxhkd``` as the hotkey daemon
+- ```termite``` as the terminal emulator
+- ```fish``` as the shell
+- ```polybar``` as the panel bar
+
+### Installation guide
+
+first, you should have the applications I used.
+
+to install these in arch-based distributions, type the following in your terminal
+-    `yay -S chromium rofi vim picom sxhkd termite fish polybar starfish`
+
+to install these in debian-based distribution, type the following in your terminal
+-    `sudo apt install chromium rofi vim compton sxhkd termite fish polybar starfish`
+
+to copy my config files, type
+-     `
+
+
