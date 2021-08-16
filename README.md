@@ -4,7 +4,7 @@ These are the programs that I use:
 
 - ```chromium``` as the web browser
 - ```rofi``` as the application launcher
-:- ```picom``` as the compositer
+- ```picom``` as the compositer
 - ```sxhkd``` as the hotkey daemon
 - ```termite``` as the terminal emulator
 - ```fish``` as the shell
