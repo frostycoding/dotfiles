@@ -32,4 +32,6 @@ to copy my config files, type
 - Open Nautilus (file manager): Super/Mod + ctrl + F
 - Close a window: Ctrl + Q
 
-- Finally, credits to undiabler for this rofi theme (https://github.com/undiabler/nord-rofi-theme)
+### Credits
+
+- Credits to undiabler for this rofi theme (https://github.com/undiabler/nord-rofi-theme)
