@@ -10,6 +10,10 @@ These are the programs that I use:
 - ```fish``` as the shell
 - ```polybar``` as the panel bar
 
+### Screenshots
+
+![BspwmConfigPicture](./screenshots/BspwmConfig.png)
+
 ### Installation guide
 
 first, you should have the applications I used.
