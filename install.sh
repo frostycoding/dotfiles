@@ -18,3 +18,6 @@ cp -r polybar ~/.config/
 
 # Copying Wallpapers
 cp -r Wallpapers ~/Pictures/
+
+# Install my rofi theme
+sudo cp rofi/nord.rasi /usr/share/rofi/themes
