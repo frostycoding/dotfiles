@@ -4,8 +4,7 @@ These are the programs that I use:
 
 - ```chromium``` as the web browser
 - ```rofi``` as the application launcher
-- ```vim``` as the text editor
-- ```picom``` as the compositer
+:- ```picom``` as the compositer
 - ```sxhkd``` as the hotkey daemon
 - ```termite``` as the terminal emulator
 - ```fish``` as the shell
@@ -22,6 +21,6 @@ to install these in debian-based distribution, type the following in your termin
 -    `sudo apt install chromium rofi vim compton sxhkd termite fish polybar starfish feh`
 
 to copy my config files, type
--     `chmod +x install.sh; ./install.sh`
+-    `chmod +x install.sh; ./install.sh`
 
 
