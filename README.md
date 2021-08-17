@@ -64,6 +64,7 @@ to copy my config files, type
 - Open Chromium: Super/Mod + C
 - Open Rofi: Alt + Space
 - Open Nautilus (file manager): Super/Mod + ctrl + F
+- Refresh your wallpaper: Super/Mod + W
 - Close a window: Ctrl + Q
 
 ### Credits
