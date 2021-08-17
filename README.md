@@ -57,9 +57,9 @@ to install these in debian-based distribution, type the following in your termin
 to copy my config files, type
 -     chmod +x install.sh; ./install.sh
 
-### My sxhkd keybindings
+### My sxhkd keybindings 
 
-Note: The windows key is known as the Super key
+* Note: The windows key is known as the Super key
 ------
 - Open Chromium: Super/Mod + C
 - Open Rofi: Alt + Space
