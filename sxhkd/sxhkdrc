@@ -16,7 +16,11 @@ super + ctrl + f
 
 # program launcher
 alt + space
-	rofi -show run		
+	rofi -show run
+
+# refresh your wallpaper
+super + w
+	feh --bg-fill --randomize ~/Pictures/Wallpaper/* & 
 
 # make sxhkd reload its configuration files:
 super + Escape
