@@ -59,8 +59,8 @@ to copy my config files, type
 
 ### My sxhkd keybindings
 
-- The windows key is known as the Super key
-
+Note: The windows key is known as the Super key
+------
 - Open Chromium: Super/Mod + C
 - Open Rofi: Alt + Space
 - Open Nautilus (file manager): Super/Mod + ctrl + F
