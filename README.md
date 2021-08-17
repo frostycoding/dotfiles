@@ -4,11 +4,14 @@ These are the programs that I use:
 
 - ```chromium``` as the web browser
 - ```rofi``` as the application launcher
+- ```nautilus``` as the file manager
 - ```picom``` as the compositer
 - ```sxhkd``` as the hotkey daemon
 - ```termite``` as the terminal emulator
 - ```fish``` as the shell
 - ```polybar``` as the panel bar
+
+You can use different programs if you want.
 
 ### Screenshots
 
