@@ -52,7 +52,7 @@ to install these in arch-based distributions, type the following in your termina
 -     yay -S chromium rofi vim picom termite fish polybar starfish feh nautilus
 -----
 to install these in debian-based distribution, type the following in your terminal
--     sudo apt install chromium rofi vim compton termite fish polybar starfish feh nautilus
+-     sudo apt install chromium rofi vim picom termite fish polybar starfish feh nautilus
 -----
 to copy my config files, type
 -     chmod +x install.sh; ./install.sh
