@@ -2,7 +2,7 @@
 
 These are the programs that I use:
 
-- ```chromium``` as the web browser
+- ```min``` as the web browser
 - ```rofi``` as the application launcher
 - ```nautilus``` as the file manager
 - ```picom``` as the compositer
@@ -61,9 +61,9 @@ to copy my config files, type
 
 * Note: The windows key is known as the Super key
 ------
-- Open Chromium: Super/Mod + C
+- Open min: Super/Mod + Ctrl + C
 - Open Rofi: Alt + Space
-- Open Nautilus (file manager): Super/Mod + ctrl + F
+- Open Nautilus (file manager): Super/Mod + Ctrl + F
 - Refresh your wallpaper: Super/Mod + W
 - Close a window: Ctrl + Q
 
