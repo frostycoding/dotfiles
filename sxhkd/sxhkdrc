@@ -7,8 +7,8 @@ super + Return
 	termite
 
 # web browser
-super + c
-	chromium
+super + ctrl + m
+	min
 
 # file manager
 super + ctrl + f
