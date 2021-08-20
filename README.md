@@ -2,9 +2,7 @@
 
 These are the programs that I use:
 
-- ```min``` as the web browser
 - ```rofi``` as the application launcher
-- ```nautilus``` as the file manager
 - ```picom``` as the compositer
 - ```sxhkd``` as the hotkey daemon
 - ```termite``` as the terminal emulator
@@ -61,11 +59,9 @@ to copy my config files, type
 
 * Note: The windows key is known as the Super key
 ------
-- Open min: Super/Mod + Ctrl + C
 - Open Rofi: Alt + Space
-- Open Nautilus (file manager): Super/Mod + Ctrl + F
 - Refresh your wallpaper: Super/Mod + W
-- Close a window: Ctrl + Q
+- Close a window: Ctrl + Shift + W
 
 ### Credits
 
