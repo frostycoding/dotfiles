@@ -6,15 +6,7 @@
 super + Return
 	termite
 
-# web browser
-super + ctrl + m
-	min
-
-# file manager
-super + ctrl + f
-	nautilus
-
-# program launcher
+# application launcher
 alt + space
 	rofi -show run
 
