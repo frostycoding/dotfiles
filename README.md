@@ -33,7 +33,7 @@ You can use different programs if you want.
 ### Install Bspwm
 
 * To install bspwm in arch-based distros, type this in the terminal
-*     yay -S bspwm sxhkd (if you don't have yay, you can install this with `sudo pacman -S yay`)
+*     yay -S bspwm sxhkd
 -----
 * To install bspwm in debian-based distros, type this in the terminal
 *     sudo apt install bspwm sxhkd
