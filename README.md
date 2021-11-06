@@ -53,7 +53,8 @@ to install these in debian-based distribution, type the following in your termin
 -     sudo apt install chromium rofi vim picom termite fish polybar starfish feh nautilus
 -----
 to copy my config files, type
--     chmod +x install.sh; ./install.sh
+-     chmod +x install.sh
+-     ./install.sh
 
 ### My sxhkd keybindings 
 
